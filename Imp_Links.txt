@@ -1,0 +1,5 @@
+*DATA* - https://drive.google.com/file/d/1QCULxZ4VmjuT1e-cyI02IJz_6GfA9Kc7/view?usp=sharing
+
+*Outputs*
+model.ipynb - https://colab.research.google.com/drive/1q-k8i3ZwGSr74V6vzvRqLtLOJA0ECLFZ
+predict_and_process.ipynb - https://colab.research.google.com/drive/1sBcpO_9-rBRyxcCtxwpilyN04dzngcNb
